@@ -5,7 +5,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-# 🌸 Iris Flower Classification using Machine Learning
 
 ## 📌 Project Overview
 
@@ -189,35 +188,6 @@ Iris-Flower-Classification/
 └── LICENSE
 ```
 
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/iris-flower-classification.git
-```
-
-Navigate to project folder:
-
-```bash
-cd iris-flower-classification
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run the Project
-
-```bash
-python iris_classification.py
-```
-
----
 
 ## 📚 Learning Outcomes
 
